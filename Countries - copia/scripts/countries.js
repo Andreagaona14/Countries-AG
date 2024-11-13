@@ -152,12 +152,4 @@ export const countries = [
       language: "Spanish",
       flag: "assets/images/flags/Venezuela.png"
   }
-  {
-    name: "Venezuela",
-    capital: "Caracas",
-    population: 28435943,
-    currency: "Bolívar",
-    language: "Spanish",
-    flag: "assets/images/flags/Venezuela.png"
-}
 ];
